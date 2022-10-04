@@ -10,9 +10,6 @@ Section: Science/Electronics
 Format: pdf
 Files: /usr/share/doc/avrdude/avrdude.pdf.gz
 
-Format: postscript
-Files: /usr/share/doc/avrdude/avrdude.ps.gz
-
 Format: HTML
 Index: /usr/share/doc/avrdude/avrdude-html/index.html
 Files: /usr/share/doc/avrdude/avrdude-html/*.html
