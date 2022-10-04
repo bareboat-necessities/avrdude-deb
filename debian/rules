@@ -1,6 +1,6 @@
 #!/usr/bin/make -f
 
 %:
-    ./build-deb.sh
+	./build-deb.sh
 	dh $@
 
