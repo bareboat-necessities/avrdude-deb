@@ -1,0 +1,2 @@
+version=3
+opts=pgpsigurlmangle=s/$/.sig/ https://download.savannah.gnu.org/releases/avrdude/avrdude-([\d\.]*)\.tar\.(?:gz|bz2|xz)

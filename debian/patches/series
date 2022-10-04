@@ -1,0 +1,7 @@
+revert-usbtiny-tpi-implementation.patch
+undefined-posix-limits-workaround.patch
+use-makeinfo.patch
+fix-ps-creationdate.patch
+Fix-paths-in-the-man-page.patch
+use-tbl-man-preprocessor.patch
+no-lock-byte-read-mask.patch

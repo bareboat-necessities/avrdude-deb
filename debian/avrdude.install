@@ -1,0 +1,4 @@
+usr/bin/avrdude
+etc/avrdude.conf
+usr/share/man/man1/avrdude.1
+debian/avrdude.metainfo.xml usr/share/metainfo
