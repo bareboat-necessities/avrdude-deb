@@ -1,5 +1,5 @@
-avrdude/build_linux/usr/local/bin/avrdude usr/bin/avrdude
-avrdude/build_linux/usr/local/include/libavrdude.h usr/include/libavrdude.h
-avrdude/build_linux/usr/local/etc/avrdude.conf etc/avrdude.conf
-avrdude/build_linux/usr/local/share/man/man1/avrdude.1 usr/share/man/man1/avrdude.1
+usr/local/bin/avrdude usr/bin/avrdude
+usr/local/include/libavrdude.h usr/include/libavrdude.h
+usr/local/etc/avrdude.conf etc/avrdude.conf
+usr/local/share/man/man1/avrdude.1 usr/share/man/man1/avrdude.1
 debian/avrdude.metainfo.xml usr/share/metainfo
