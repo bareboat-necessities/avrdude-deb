@@ -4,7 +4,7 @@
 	dh $@
 
 override_dh_auto_clean:
-	rm -f build_linux || true
+	rm -f build_linux
 
 override_dh_auto_build:
 	./build.sh
