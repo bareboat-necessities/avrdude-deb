@@ -1,5 +1,7 @@
 #!/usr/bin/make -f
 
 %:
-	./build-deb.sh
 	dh $@
+
+override_dh_auto_build:
+	./build-deb.sh
